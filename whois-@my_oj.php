@@ -8,8 +8,8 @@ ob_start();
 by @hi000bot
 https://t.me/my_oj
 */
-$API_KEY = ''; //توکن
-$channel="my_oj"; //آیدی کانال بدون @
+$API_KEY = ''; //7570918024:AAHZ_He6G2heFmzQ1dAETEhNIs9hU2ONNMI
+$channel="my_oj"; //timelove237
 $add = "";// تبلیغات کنار نوشته
 define('API_KEY',$API_KEY);
 function boT($method,$datas=[]){
